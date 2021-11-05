@@ -9,3 +9,7 @@ We'll learn how to do:
 1. Commit Squashing
 1. Disaster fixing
 1. Using Git extensions
+
+typo
+
+accidental password
